@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <!-- Website Title -->
-        <title>Nedda - Business Corporation Bootstrap php Template</title>
+        <title>CIO - Consultoría Empresarial</title>
         <!-- For IE -->
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <!-- For Resposive Device -->
@@ -17,7 +17,7 @@
         <!-- iOS Safari -->
         <meta name="apple-mobile-web-app-status-bar-style" content="#061948">
         <!-- Favicon -->
-        <link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/icon.png">
+        <link rel="icon" type="image/png" sizes="56x56" href="images/logo/ciomx-logo.png">
         <!-- Main style sheet -->
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <!-- responsive style sheet -->
@@ -83,23 +83,23 @@
                 <div class="theme-menu-wrapper">
                     <div class="container">
                         <div class="bg-wrapper clearfix">
-                            <div class="logo float-left"><a href="index.php"><img class="logmer" src="images/logo/logo.svg" alt=""></a></div>
+                            <div class="logo float-left"><a href="index.php"><img class="logmer" src="images/logo/ciomx-logo.png" alt=""></a></div>
                             <!-- ============== Menu Warpper ================ -->
                             <div class="menu-wrapper float-left">
                                 <nav id="mega-menu-holder" class="clearfix">
                                     <ul class="clearfix">
-                                        <li class="active"><a href="index.php">Home</a></li>
-                                        <li><a href="about.php">ABOUT US</a></li>
-                                        <li><a href="team.php">Our Team</a></li>
-                                        <li><a href="service.php">Services</a></li>
-                                        <li><a href="#">Blog</a>
+                                        <li class="active"><a href="index.php">Inicio</a></li>
+                                        <li><a href="about.php">Somos</a></li>
+                                        <!-- <li><a href="team.php">Nuestro Equipo</a></li> -->
+                                        <li><a href="service.php">Servicios</a></li>
+                                        <!-- <li><a href="#">Blog</a>
                                             <ul class="dropdown">
-                                                <li><a href="blog.php">Blog Left Sidebar</a></li>
-                                                <li><a href="blog-r.php">Blog Right Sidebar</a></li>
-                                                <li><a href="blog-details.php">Blog Post</a></li>
+                                                <li><a href="blog.php">Blog</a></li>
+                                                <li><a href="blog-r.php">Blog</a></li>
+                                                <li><a href="blog-details.php">Blog</a></li>
                                             </ul>
-                                        </li>
-                                        <li><a href="contact.php">contact</a></li>
+                                        </li> -->
+                                        <li><a href="contact.php">Contacto</a></li>
                                     </ul>
                                 </nav> <!-- /#mega-menu-holder -->
                             </div> <!-- /.menu-wrapper -->
