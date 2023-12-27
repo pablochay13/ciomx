@@ -89,9 +89,9 @@
                                 <nav id="mega-menu-holder" class="clearfix">
                                     <ul class="clearfix">
                                         <li class="active"><a href="index.php">Inicio</a></li>
-                                        <li><a href="about.php">Somos</a></li>
+                                        <li><a href="#">Somos</a></li>
                                         <!-- <li><a href="team.php">Nuestro Equipo</a></li> -->
-                                        <li><a href="service.php">Servicios</a></li>
+                                        <li><a href="#servicios">Servicios</a></li>
                                         <!-- <li><a href="#">Blog</a>
                                             <ul class="dropdown">
                                                 <li><a href="blog.php">Blog</a></li>
@@ -99,7 +99,8 @@
                                                 <li><a href="blog-details.php">Blog</a></li>
                                             </ul>
                                         </li> -->
-                                        <li><a href="contact.php">Contacto</a></li>
+                                        <li><a href="#cursos">Cursos</a></li>
+                                        <li><a href="#contacto">Contacto</a></li>
                                     </ul>
                                 </nav> <!-- /#mega-menu-holder -->
                             </div> <!-- /.menu-wrapper -->

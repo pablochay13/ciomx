@@ -52,7 +52,7 @@ include('sections/header.php');
 	Our Solution
 ============================================== 
 -->
-<div class="our-solution section-spacing">
+<div class="our-solution section-spacing" id="servicios">
 	<div class="container">
 		<div class="theme-title-one">
 			<h2>Alguno de nuestros servicios</h2>
@@ -108,9 +108,9 @@ include('sections/header.php');
 <!-- 
 =============================================
 	About Company Stye Two
-	============================================== 
+============================================== 
 -->
-<div class="about-compnay-two section-spacing">
+<div class="about-compnay-two section-spacing" id="#contacto">
 	<div class="overlay">
 		<div class="container">
 			<div class="row no-gutters">
@@ -129,18 +129,9 @@ include('sections/header.php');
 						<form action="#" class="theme-form-one">
 							<div class="row">
 								<div class="col-md-6"><input type="text" placeholder="Nombre *"></div>
-								<div class="col-md-6"><input type="text" placeholder="Teléfono *"></div>
+								<div class="col-md-6"><input type="tel" placeholder="Teléfono *"></div>
 								<div class="col-md-6"><input type="email" placeholder="Email *"></div>
-								<div class="col-md-6"><input type="email" placeholder="Servicio *"></div>
-								<!-- <div class="col-md-6">
-									<select class="form-control" id="exampleSelect1">
-										<option>Choose Your Service</option>
-										<option>Lorem Ipsum</option>
-										<option>Consectetur</option>
-										<option>Pellentesque Erat</option>
-										<option>Tempor Incididun</option>
-									</select>
-								</div> -->
+								<div class="col-md-6"><input type="text" placeholder="Empresa *"></div>
 								<div class="col-12"><textarea placeholder="Mensaje"></textarea></div>
 							</div> <!-- /.row -->
 							<button class="theme-button-one">Enviar</button>
@@ -258,7 +249,7 @@ include('sections/header.php');
 	Courses Section
 =====================================================
 -->
-<div class="faq-section">
+<div class="faq-section" id="cursos">
 	<div class="overlay">
 		<div class="container">
 			<div class="theme-title-one">
