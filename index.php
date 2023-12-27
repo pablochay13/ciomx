@@ -119,8 +119,8 @@ include('sections/header.php');
 						<h2>CIO MX</h2>
 					</div> <!-- /.theme-title-one -->
 					<p>¿Buscas potenciar el crecimiento y la eficiencia de tu negocio? En nuestra consultoría empresarial, ofrecemos soluciones estratégicas diseñadas a medida para alcanzar tus objetivos. Desde la optimización de procesos hasta la implementación de estrategias innovadoras, nuestro equipo de expertos está aquí para guiar tu empresa hacia el éxito.
-					<br><br>
-					Descubre cómo podemos transformar tus desafíos en oportunidades de crecimiento sostenible. ¡Conócenos ahora!"
+						<br><br>
+						Descubre cómo podemos transformar tus desafíos en oportunidades de crecimiento sostenible. ¡Conócenos ahora!"
 					</p>
 					<!-- <img src="images/signature.svg" alt="" class="sign"> -->
 				</div> <!-- /.col- -->
@@ -173,7 +173,7 @@ include('sections/header.php');
 									<h5><a href="#">Adipiscing Momentus</a></h5>
 									<p>Lorem ipsum dolor sit amet</p>
 								</div>
-								
+
 							</div> <!-- /.text -->
 						</div> <!-- /.hover-content -->
 					</div> <!-- /.single-case-block -->
@@ -187,7 +187,7 @@ include('sections/header.php');
 									<h5><a href="#">Posuere Urna</a></h5>
 									<p>Posuere urna nec semper feugiat.</p>
 								</div>
-								
+
 							</div> <!-- /.text -->
 						</div> <!-- /.hover-content -->
 					</div> <!-- /.single-case-block -->
@@ -201,7 +201,7 @@ include('sections/header.php');
 									<h5><a href="#">Vestibulum Mattis</a></h5>
 									<p>Vestibulum mattis velit sed</p>
 								</div>
-								
+
 							</div> <!-- /.text -->
 						</div> <!-- /.hover-content -->
 					</div> <!-- /.single-case-block -->
@@ -215,7 +215,7 @@ include('sections/header.php');
 									<h5><a href="#">Nullam Non</a></h5>
 									<p>Nullam non nisi est facilisis</p>
 								</div>
-								
+
 							</div> <!-- /.text -->
 						</div> <!-- /.hover-content -->
 					</div> <!-- /.single-case-block -->
@@ -229,7 +229,7 @@ include('sections/header.php');
 									<h5><a href="#">Orci Ac Auctor</a></h5>
 									<p>Orci ac auctor augue mauris augue</p>
 								</div>
-								
+
 							</div> <!-- /.text -->
 						</div> <!-- /.hover-content -->
 					</div> <!-- /.single-case-block -->
@@ -243,7 +243,7 @@ include('sections/header.php');
 									<h5><a href="#">Luctus Venenatis</a></h5>
 									<p>Luctus venenatis fringilla urna</p>
 								</div>
-								
+
 							</div> <!-- /.text -->
 						</div> <!-- /.hover-content -->
 					</div> <!-- /.single-case-block -->
@@ -255,104 +255,168 @@ include('sections/header.php');
 </div> <!-- /.our-case -->
 <!--
 =====================================================
-	Faq Section
+	Courses Section
 =====================================================
 -->
 <div class="faq-section">
 	<div class="overlay">
 		<div class="container">
 			<div class="theme-title-one">
-				<h2>Faq’s</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-					labore et dolore magna aliqua. </p>
+				<h2>FORMACIÓN Y DESARROLLO PROPUESTA <br> GENERAL FORMATIVA</h2>
+				<p>CATÁLOGO DE CURSOS</p>
 			</div> <!-- /.theme-title-one -->
 
 			<div class="wrapper row no-gutters">
-				<div class="col-xl-6 col-lg-7 order-last">
+				<div class="col-xl-8 col-lg-8 order-last">
 					<div class="faq-content">
 						<div class="accordion-one">
 							<div class="panel-group theme-accordion" id="accordion">
-								<div class="panel">
-									<div class="panel-heading">
-										<h6 class="panel-title">
-											<a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-												1. A iaculis at erat pellentesque adipiscing?</a>
-										</h6>
-									</div>
-									<div id="collapse1" class="panel-collapse collapse">
-										<div class="panel-body">
-											<p>A iaculis at erat pellentesque adipiscing commodo elit. Nunc
-												mattis enim ut tellus elementum sagittis vitae. Habitasse platea
-												dictumst quisque sagittis purus sit amet.</p>
-										</div>
-									</div>
-								</div> <!-- /panel 1 -->
+
 								<div class="panel">
 									<div class="panel-heading active-panel">
 										<h6 class="panel-title">
-											<a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-												2. Diam volutpat commodo sed egestas.?</a>
+											<a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+												CURSOS DE NEGOCIOS</a>
 										</h6>
 									</div>
-									<div id="collapse2" class="panel-collapse collapse show">
+									<div id="collapse1" class="panel-collapse collapse show">
 										<div class="panel-body">
-											<p>Diam volutpat commodo sed egestas. Blandit aliquam etiam erat
-												velit scelerisque in. Felis donec et odio pellentesque diam.
-												Orci dapibus ultrices in iaculis nunc sed augue lacus.</p>
+											<p>
+												01 NEGOCIACIÓN <br>
+												02 INCREMENTA TU POTENCIAL EN VENTAS <br>
+												03 PROCESOS DE VENTAS <br>
+												04 ESCUCHA AL CLIENTE <br>
+												05 CALIDAD EN EL SERVICIO
+											</p>
+										</div>
+									</div>
+								</div> <!-- /panel 1 -->
+
+								<div class="panel">
+									<div class="panel-heading">
+										<h6 class="panel-title">
+											<a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
+												CURSOS DE CALIDAD</a>
+										</h6>
+									</div>
+									<div id="collapse2" class="panel-collapse collapse">
+										<div class="panel-body">
+											<div class="row">
+												<div class="col-6">
+													<p>
+														01 LAS 5 S´s
+														02 ADMINISTRACIÓN POR PROCESOS <br>
+														03 TALLER RCA- ROOT CAUSE ANALYSIS
+														(ANÁLISIS DE CAUSA RAÍZ) <br>
+														04 LAS 7 HERRAMIENTAS BASICAS PARA LA CALIDAD <br>
+													</p>
+												</div>
+												<div class="col-6">
+													<p>
+														05 LAS 7 NUEVAS HERRAMIENTAS PARA LA CALIDAD <br>
+														06 LÍDERES DE EQUIOS DE MEJORA <br>
+														07 MMP MEDICIÓN Y MEJORA DE LA PRODUCTIVIDAD <br>
+														08 CCC (CÍRCULOS DE CONTROL DE CALIDAD) <br>
+														09 MEJORA DIRECTAS <br>
+													</p>
+												</div>
+											</div>
 										</div>
 									</div>
 								</div> <!-- /panel 2 -->
+
 								<div class="panel">
 									<div class="panel-heading">
 										<h6 class="panel-title">
 											<a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-												3. Vitae turpis massa sed elementum?</a>
+												CURSOS DE ESTADÍSTICA</a>
 										</h6>
 									</div>
 									<div id="collapse3" class="panel-collapse collapse">
 										<div class="panel-body">
-											<p>Vitae turpis massa sed elementum. Aliquet bibendum enim facilisis
-												gravida neque convallis a cras. Diam vel quam elementum pulvinar
-												etiam non apien pellentesque habitant morbi.</p>
+											<p>
+												01 SEMINARIO DE ESTADÍSTICA PARA EMPRESAS DE
+												SERVICIO <br>
+												02 ESTADÍSTICA DE VENTAS
+											</p>
 										</div>
 									</div>
 								</div> <!-- /panel 3 -->
+
 								<div class="panel">
 									<div class="panel-heading">
 										<h6 class="panel-title">
 											<a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
-												4. Turpis nunc eget lorem dolor sed viverra?</a>
+												CURSOS DE PLANEACIÓN / ADMINISTRACIÓN</a>
 										</h6>
 									</div>
 									<div id="collapse4" class="panel-collapse collapse">
 										<div class="panel-body">
-											<p>Turpis nunc eget lorem dolor sed viverra. Pretium nibh ipsum
-												consequat nisl vel pretium. Eget nulla facilisi etiam dignissim
-												diam quis enim lobortis scelerisque in hendrerit gravida.</p>
+											<div class="row">
+												<div class="col-4">
+													<p>
+														01 PLANEACIÓN OPERATIVA <br>
+														02 BSC BALANCED SCORE CARD <br>
+														CUADRO DE MANDO INTEGRAL <br>
+														03 DESARROLLO GERENCIAL <br>
+														04 TALLER DNC FUNCIONAL <br>
+														05 ENFOQUE EN RESULTADOS <br>
+														
+													</p>
+												</div>
+												<div class="col-4">
+													<p>06 MANEJO DE CONFLICTOS Y TOM0 DE DESICIONES
+														07 DISOLVIENDO CONFLICTOS CON PNL
+														(PROGRAMA DE NEUROLINGUISTICA) <br>
+														08 ANÁLISIS DE PROBLEMAS Y TOMA DE DESICIONES <br>
+														09 ADMINISTRACIÓN ACTIVA <br>
+														10 DESARROLLO DE PROYECTOS CON PMBOK <br>
+														
+													</p>
+												</div>
+												<div class="col-4">
+													<p>
+													11 ADMINISTRACIÓN EFICAZ I <br>
+														12 ADMINISTRACIÓN EFICAZ II <br>
+														13 GESTIÓN ESTRATÉGICA <br>
+														14 PLANEACIÓN APLICADA <br>
+														15 PRINCIPIOS DE ADMINISTRACIÓN <br>
+														16 SUPERVISIÓN EFICAZ <br>
+														17 DIRIGIENDO CON VALOR <br>
+														18 LIDERANDO CON VALOR
+													</p>
+												</div>
+											</div>
 										</div>
 									</div>
 								</div> <!-- /panel 4 -->
+
 								<div class="panel">
 									<div class="panel-heading">
 										<h6 class="panel-title">
 											<a data-toggle="collapse" data-parent="#accordion" href="#collapse5">
-												5. Adipiscing elit duis tristique sollicitudin?</a>
+												CURSOS DE DESARROLLO</a>
 										</h6>
 									</div>
 									<div id="collapse5" class="panel-collapse collapse">
 										<div class="panel-body">
-											<p>Adipiscing elit duis tristique sollicitudin nibh sit amet commodo
-												nulla. Blandit cursus risus at ultrices mi. Magna ac placerat
-												vestibulum lectus. Nulla pellentesque dignissim enim sit amet
-												venenatis.</p>
+											<p>
+												01 INSTRUCTOR INTERNO <br>
+												02 FORMACIÓN DE MANDO MEDIOS <br>
+												03 DIPLOMADO PARA INSTRUCTORES INTERNOS CON
+												CERTIFICACIÓN <br>
+												04 LÍDERES DE EQUIPOS <br>
+											</p>
 										</div>
 									</div>
 								</div> <!-- /panel 5 -->
+
 							</div> <!-- end #accordion -->
 						</div> <!-- End of .accordion-one -->
 					</div> <!-- /.faq-content -->
 				</div> <!-- /.col- -->
-				<div class="col-xl-6 col-lg-5 order-first">
+
+				<div class="col-xl-4 col-lg-4 order-first">
 					<div class="img-box"><a data-fancybox href="https://www.youtube.com/embed/ARoGZIN5oC4" class="play"><i class="fa fa-play" aria-hidden="true"></i></a></div>
 				</div>
 			</div> <!-- /.wrapper -->
