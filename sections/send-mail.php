@@ -1,11 +1,23 @@
 <?php
-// api resend re_Ci76zCmX_4LwEzCJD86Hcq91bnkgyCYCP
+$name = $_POST['nombre'];
+$phone = $_POST['tel'];
+$email = $_POST['email'];
+$company = $_POST['empresa'];
+$asunto = $_POST['msj'];
 
-$resend = Resend::client('re_Ci76zCmX_4LwEzCJD86Hcq91bnkgyCYCP');
+$html =  "
+<h1>Envio libreria PHPMailer</h1>
 
-$resend->emails->send([
-  'from' => 'onboarding@resend.dev',
-  'to' => 'longinus.dev@gmail.com',
-  'subject' => 'Hello World',
-  'html' => '<p>Congrats on sending your <strong>first email</strong>!</p>'
-]);
+Nombre: $name<br /> 
+Teléfono: $phone<br /> 
+Email: $email <br />
+Empresa: $company <br />
+Mensaje: $asunto <br />
+
+";
+
+
+
+if (mail('contacto@ciomx.org', $asunto, $html)) {
+  //echo "Correo enviado";
+}

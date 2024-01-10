@@ -6,11 +6,9 @@
                     <div class="logo"><a href="index.html"><img class="logmer" src="images/logo/ciomx-logo.png" alt=""></a></div>
                     <p>Misión: Contribuir a que las empresas perduren</p>
                     <ul class="social-icon">
-                        <li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.instagram.com/ciomx/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.linkedin.com/company/ciomx/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.facebook.com/ciomx" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                     </ul>
                 </div> <!-- /.logo-widget -->
                 <div class="col-lg-2 col-sm-6 col-12 footer-list">
@@ -28,22 +26,22 @@
                     <div class="wrapper">
                         <div class="row">
                             <div class="col-4">
-                                <a href="images/footer/1.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/footer/1.jpg" alt=""></a>
+                                <a href="images/our-cases/1.webp" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/our-cases/1.webp" alt=""></a>
                             </div>
                             <div class="col-4">
-                                <a href="images/footer/2.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/footer/2.jpg" alt=""></a>
+                                <a href="images/our-cases/2.webp" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/our-cases/2.webp" alt=""></a>
                             </div>
                             <div class="col-4">
-                                <a href="images/footer/3.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/footer/3.jpg" alt=""></a>
+                                <a href="images/our-cases/3.webp" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/our-cases/3.webp" alt=""></a>
                             </div>
                             <div class="col-4">
-                                <a href="images/footer/4.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/footer/4.jpg" alt=""></a>
+                                <a href="images/our-cases/4.webp" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/our-cases/4.webp" alt=""></a>
                             </div>
                             <div class="col-4">
-                                <a href="images/footer/5.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/footer/5.jpg" alt=""></a>
+                                <a href="images/our-cases/5.webp" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/our-cases/5.webp" alt=""></a>
                             </div>
                             <div class="col-4">
-                                <a href="images/footer/6.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/footer/6.jpg" alt=""></a>
+                                <a href="images/our-cases/6.webp" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/our-cases/6.webp" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -71,7 +69,7 @@
     </div> <!-- /.top-footer -->
     <div class="bottom-footer">
         <div class="container">
-            <p>LonginusDEV &copy; Copyrights 2023 / <a class="white-link" href="https://longinusdev.com/">CIO</a> / All Rights Reserved. </p>
+            <p>Longinus &copy; Copyrights 2024 / <a class="white-link" href="https://longinusdev.com/">CIO</a> / All Rights Reserved. </p>
         </div>
     </div> <!-- /.bottom-footer -->
 </footer> <!-- /.theme-footer-two -->

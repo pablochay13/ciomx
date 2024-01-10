@@ -17,7 +17,7 @@
         <!-- iOS Safari -->
         <meta name="apple-mobile-web-app-status-bar-style" content="#061948">
         <!-- Favicon -->
-        <link rel="icon" type="image/png" sizes="56x56" href="images/logo/ciomx-logo.png">
+        <link rel="icon" type="image/x-icon" href="/images/logo/ico.ico">
         <!-- Main style sheet -->
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <!-- responsive style sheet -->
@@ -51,34 +51,32 @@
                         <div class="row">
                             <div class="col-md-6 col-sm-8 col-12">
                                 <ul class="left-widget">
-                                    <li>Phone: +1 (745) 956 1234</li>
+                                    <li>Teléfono: +52 (998) 251-4020</li>
                                     <!-- <li>
-									<div id="polyglotLanguageSwitcher">
-										<form action="#">
-											<select id="polyglot-language-options">
-												<option id="en" value="en" selected>English</option>
-												<option id="fr" value="fr">French</option>
-												<option id="de" value="de">German</option>
-												<option id="it" value="it">Italian</option>
-												<option id="es" value="es">Spanish</option>
-											</select>
-										</form>
-									</div>
-								</li> -->
+                                        <div id="polyglotLanguageSwitcher">
+                                            <form action="#">
+                                                <select id="polyglot-language-options">
+                                                    <option id="en" value="en" selected>English</option>
+                                                    <option id="fr" value="fr">French</option>
+                                                    <option id="de" value="de">German</option>
+                                                    <option id="it" value="it">Italian</option>
+                                                    <option id="es" value="es">Spanish</option>
+                                                </select>
+                                            </form>
+                                        </div>
+                                    </li> -->
                                 </ul>
                             </div>
                             <div class="col-md-6 col-sm-4 col-12">
                                 <ul class="social-icon">
-                                    <li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://www.instagram.com/ciomx/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/company/ciomx/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://www.facebook.com/ciomx" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                                 </ul>
                             </div>
-                        </div> <!-- /.row -->
-                    </div> <!-- /.container -->
-                </div> <!-- /.top-header -->
+                        </div>
+                    </div>
+                </div>
 
                 <div class="theme-menu-wrapper">
                     <div class="container">

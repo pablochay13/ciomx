@@ -126,13 +126,23 @@ include('sections/header.php');
 				</div> <!-- /.col- -->
 				<div class="col-lg-5 col-12">
 					<div class="quote-form">
-						<form action="#" class="theme-form-one">
+						<form method="POST" action="sections/send-mail.php" class="theme-form-one">
 							<div class="row">
-								<div class="col-md-6"><input type="text" placeholder="Nombre *"></div>
-								<div class="col-md-6"><input type="tel" placeholder="Teléfono *"></div>
-								<div class="col-md-6"><input type="email" placeholder="Email *"></div>
-								<div class="col-md-6"><input type="text" placeholder="Empresa *"></div>
-								<div class="col-12"><textarea placeholder="Mensaje"></textarea></div>
+								<div class="col-md-6">
+									<input name="nombre" id="nombre" type="text" placeholder="Nombre *">
+								</div>
+								<div class="col-md-6">
+									<input name="tel" id="tel"  type="tel" placeholder="Teléfono *">
+								</div>
+								<div class="col-md-6">
+									<input name="email" id="email"  type="email" placeholder="Email *">
+								</div>
+								<div class="col-md-6">
+									<input name="empresa" id="empresa"  type="text" placeholder="Empresa *">
+								</div>
+								<div class="col-12">
+									<textarea name="msj" id="msj"  placeholder="Mensaje"></textarea>
+								</div>
 							</div> <!-- /.row -->
 							<button class="theme-button-one">Enviar</button>
 						</form>
@@ -157,88 +167,88 @@ include('sections/header.php');
 			<div class="row">
 				<div class="col-lg-4 col-sm-6 col-12">
 					<div class="single-case-block">
-						<img src="images/our-cases/1.jpg" alt="">
-						<div class="hover-content">
+						<img src="images/our-cases/1.webp" alt="">
+						<!-- <div class="hover-content">
 							<div class="text clearfix">
 								<div class="float-left">
 									<h5><a href="#">Adipiscing Momentus</a></h5>
 									<p>Lorem ipsum dolor sit amet</p>
 								</div>
+							</div>
+						</div> -->
+					</div>
+				</div>
 
-							</div> <!-- /.text -->
-						</div> <!-- /.hover-content -->
-					</div> <!-- /.single-case-block -->
-				</div> <!-- /.col- -->
 				<div class="col-lg-4 col-sm-6 col-12">
 					<div class="single-case-block">
-						<img src="images/our-cases/2.jpg" alt="">
-						<div class="hover-content">
+						<img src="images/our-cases/2.webp" alt="">
+						<!-- <div class="hover-content">
 							<div class="text clearfix">
 								<div class="float-left">
-									<h5><a href="#">Posuere Urna</a></h5>
-									<p>Posuere urna nec semper feugiat.</p>
+									<h5><a href="#">Adipiscing Momentus</a></h5>
+									<p>Lorem ipsum dolor sit amet</p>
 								</div>
+							</div>
+						</div> -->
+					</div>
+				</div>
 
-							</div> <!-- /.text -->
-						</div> <!-- /.hover-content -->
-					</div> <!-- /.single-case-block -->
-				</div> <!-- /.col- -->
 				<div class="col-lg-4 col-sm-6 col-12">
 					<div class="single-case-block">
-						<img src="images/our-cases/3.jpg" alt="">
-						<div class="hover-content">
+						<img src="images/our-cases/4.webp" alt="">
+						<!-- <div class="hover-content">
 							<div class="text clearfix">
 								<div class="float-left">
-									<h5><a href="#">Vestibulum Mattis</a></h5>
-									<p>Vestibulum mattis velit sed</p>
+									<h5><a href="#">Adipiscing Momentus</a></h5>
+									<p>Lorem ipsum dolor sit amet</p>
 								</div>
+							</div>
+						</div> -->
+					</div>
+				</div>
 
-							</div> <!-- /.text -->
-						</div> <!-- /.hover-content -->
-					</div> <!-- /.single-case-block -->
-				</div> <!-- /.col- -->
 				<div class="col-lg-4 col-sm-6 col-12">
 					<div class="single-case-block">
-						<img src="images/our-cases/4.jpg" alt="">
-						<div class="hover-content">
+						<img src="images/our-cases/4.webp" alt="">
+						<!-- <div class="hover-content">
 							<div class="text clearfix">
 								<div class="float-left">
-									<h5><a href="#">Nullam Non</a></h5>
-									<p>Nullam non nisi est facilisis</p>
+									<h5><a href="#">Adipiscing Momentus</a></h5>
+									<p>Lorem ipsum dolor sit amet</p>
 								</div>
+							</div>
+						</div> -->
+					</div>
+				</div>
 
-							</div> <!-- /.text -->
-						</div> <!-- /.hover-content -->
-					</div> <!-- /.single-case-block -->
-				</div> <!-- /.col- -->
 				<div class="col-lg-4 col-sm-6 col-12">
 					<div class="single-case-block">
-						<img src="images/our-cases/5.jpg" alt="">
-						<div class="hover-content">
+						<img src="images/our-cases/5.webp" alt="">
+						<!-- <div class="hover-content">
 							<div class="text clearfix">
 								<div class="float-left">
-									<h5><a href="#">Orci Ac Auctor</a></h5>
-									<p>Orci ac auctor augue mauris augue</p>
+									<h5><a href="#">Adipiscing Momentus</a></h5>
+									<p>Lorem ipsum dolor sit amet</p>
 								</div>
+							</div>
+						</div> -->
+					</div>
+				</div>
 
-							</div> <!-- /.text -->
-						</div> <!-- /.hover-content -->
-					</div> <!-- /.single-case-block -->
-				</div> <!-- /.col- -->
 				<div class="col-lg-4 col-sm-6 col-12">
 					<div class="single-case-block">
-						<img src="images/our-cases/6.jpg" alt="">
-						<div class="hover-content">
+						<img src="images/our-cases/6.webp" alt="">
+						<!-- <div class="hover-content">
 							<div class="text clearfix">
 								<div class="float-left">
-									<h5><a href="#">Luctus Venenatis</a></h5>
-									<p>Luctus venenatis fringilla urna</p>
+									<h5><a href="#">Adipiscing Momentus</a></h5>
+									<p>Lorem ipsum dolor sit amet</p>
 								</div>
+							</div>
+						</div> -->
+					</div>
+				</div>
 
-							</div> <!-- /.text -->
-						</div> <!-- /.hover-content -->
-					</div> <!-- /.single-case-block -->
-				</div> <!-- /.col- -->
 			</div> <!-- /.row -->
 		</div> <!-- /.wrapper -->
 		<!-- <div class="view-all"><a href="#" class="theme-button-one">VIEW MORE</a></div> -->
