@@ -13,9 +13,7 @@ Teléfono: $phone<br />
 Email: $email <br />
 Empresa: $company <br />
 Mensaje: $asunto <br />
-
 ";
-
 
 
 if (mail('contacto@ciomx.org', $asunto, $html)) {

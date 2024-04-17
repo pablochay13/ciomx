@@ -51,7 +51,7 @@
                         <div class="row">
                             <div class="col-md-6 col-sm-8 col-12">
                                 <ul class="left-widget">
-                                    <li>Teléfono: +52 (998) 251-4020</li>
+                                    <li>Teléfono: +52 (999) 645 8425</li>
                                     <!-- <li>
                                         <div id="polyglotLanguageSwitcher">
                                             <form action="#">

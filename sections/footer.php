@@ -56,11 +56,11 @@
                         </li>
                         <li>
                             <i class="flaticon-multimedia-1"></i>
-                            <a href="mailto:contacto@ciomx.org">contacto@ciomx.org</a>
+                            <a href="mailto:operaciones@ciomx.org">operaciones@ciomx.org</a>
                         </li>
                         <li>
                             <i class="fa fa-phone" aria-hidden="true"></i>
-                            <a href="#">+52 (998) 251-4020</a>
+                            <a href="#">+52 (999) 645 8425</a>
                         </li>
                     </ul>
                 </div> <!-- /.contact-widget -->
